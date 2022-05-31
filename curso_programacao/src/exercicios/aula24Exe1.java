@@ -2,7 +2,7 @@ package exercicios;
 
 import java.util.Locale;
 
-public class exe1Aula24 {
+public class aula24Exe1 {
 
 	public static void main(String[] args) {
 		
